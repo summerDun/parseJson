@@ -1,0 +1,2 @@
+1、rapidJson相关的解释以下链接说得比较清楚。
+http://www.cocos.com/doc/tutorial/show?id=1556
